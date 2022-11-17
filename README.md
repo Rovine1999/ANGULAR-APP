@@ -19,13 +19,7 @@ click "Enter" on Windows or "Return" on Mac OSX
 There are several bugs in the toppings section currently being corrected. If any other bug is discovered, please don't hesitate to contact me.
 ## Technologies Used
 The project incorporates HTML, CSS, Angular and TypeScript.
-## Support and contact details
-You can find me on; 
-Facebook @sygel sydney. 
-Instangram @rovinewanjala. 
-Twiter @rovinewanjala. 
-LinkedIn @ rovinewanjala.
-Whatsapp +254712387089.
+
 ### License
 *{MIT License
 
